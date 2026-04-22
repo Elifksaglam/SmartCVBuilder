@@ -1,3 +1,4 @@
+<img width="971" height="696" alt="cv" src="https://github.com/user-attachments/assets/216493d5-350d-4e20-9ce1-87af05708429" />
 ****Smart CV Builder****
 I created the "Smart CV Builder" to bridge the gap between simple text entries and professional design. 
 This project was a 'learning by doing' journey where I focused on using Python functions to manage data flow.
